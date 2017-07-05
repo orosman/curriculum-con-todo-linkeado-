@@ -1,0 +1,139 @@
+h2 {
+
+	color: #61210B;
+	background: transparent;
+  border-bottom: 1px dotted;
+  border-bottom: 1px dotted;
+  padding: 2px 3px 4px 5px;
+  margin: 10px 20px 0px 7px;
+  width: 94%;
+  font-family: old english text mt, sans-serif;
+
+}
+
+p {
+
+  padding: 20px 30px 40px 10px;
+  border: 2px solid #01DF01;
+  background: #BEF781;
+  margin: 10px 30px 20px 7px;
+  width: 850px;
+  height: 35px;
+  color: black;
+  background:
+
+}
+
+html {
+
+	background-color: #E1F5A9;
+  background-image: url(https://media.tenor.co/images/9d439f6476ea633d9ad1d03fb156e291/tenor.gif);
+  cursor : url(1391255789.gif), auto;
+
+
+}
+
+#hoja {
+
+  float: left;
+  width: 23%;
+  border: 5px solid #610B0B;
+  padding: 10px 10px 10px 10px;
+  background: #BCF5A9;
+  opacity: 0.8;
+  margin: 10px;
+  margin-top: 1%;
+  border-radius: 20px;
+  position: fixed;
+
+}
+
+#hoja li{
+
+  background: #BCF5A9;
+  color: green;
+
+}
+
+ul li {
+
+  border-bottom: 1px;
+  background:
+  border: 5px solid #610B0B;
+  
+}
+
+#hola {
+
+  margin-top: 1%;
+  margin-bottom: 1%;
+  float: right;
+  width: 70%;
+  border: 5px solid #610B0B;
+  padding: 10px 20px 10px 10px;
+  background: #BCF5A9;
+  opacity: 0.7;
+  border-radius: 20px;
+
+}
+
+#xd {
+
+  margin-bottom: 1%;
+  float: right;
+  width: 70%;
+  border: 5px solid #610B0B;
+  padding: 10px 20px 10px 10px;
+  background: #BCF5A9;
+  opacity: 0.7;
+  border-radius: 20px;
+
+}
+
+#lol {
+   
+  margin-bottom: 1%;
+  float: right;
+  width: 70%;
+  border: 5px solid #610B0B;
+  padding: 10px 20px 10px 10px;
+  background: #BCF5A9;
+  opacity: 0.7;
+  border-radius: 20px;
+
+}
+
+#jaja {
+
+  margin-bottom: 2%;
+  float: right;
+  width: 70%;
+  border: 5px solid #610B0B;
+  padding: 10px 20px 10px 10px;
+  background: #BCF5A9;
+  opacity: 0.7;
+  border-radius: 20px;
+}
+
+img {
+
+  padding: 0px 0px 0px 27px;
+
+}
+
+embed {
+
+  float: left;
+  width: 15%;
+  padding: 20px 10px 10px 10px;
+  opacity: 0.0;
+  margin: 15px;
+  margin-top: 1%;
+  position: fixed;
+}
+
+*{
+
+  background-image: url();
+
+}
